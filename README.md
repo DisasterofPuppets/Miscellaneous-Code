@@ -21,3 +21,16 @@ As always...
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Measure between ground and selected pin to confirm 3.3v measurement - if not, pin may be faulty.
     
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Additional instructions included in code comments.
+
+  - **🎤 Home Assistant - ESP32 Speaker and Microphone Test**
+    
+    **Code:**&nbsp;&nbsp;&nbsp;&nbsp;[HomeAssistant_ESP32_Satellite_Soundcheck.ino]https://github.com/DisasterofPuppets/Miscellaneous-Code/blob/main/HomeAssistant_ESP32_Satelite_Soundcheck.ino
+    
+    **Usage:**&nbsp;&nbsp;&nbsp;You will be prompted to select either the microphone or speaker check by entering a number in the serial.
+    
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Speaker check will ask for a tone (440 is good) and play it for 5 seconds to confirm the speaker is working
+    
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Microphone check will blink the onboard LED to the volume of your voice to confirm audio input is working.
+   
+   
+   
