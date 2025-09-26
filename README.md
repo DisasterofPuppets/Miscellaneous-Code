@@ -18,6 +18,6 @@ As always...
     
     **Usage:**&nbsp;&nbsp;&nbsp;Enter the pin number in serial monitor and the program will set it to High.
     
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Measure between ground and selected pin to confirm 3.3v measurement - if not, pin may be faulty.
+   &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Measure between ground and selected pin to confirm 3.3v measurement - if not, pin may be faulty.
     
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Additional instructions included in code comments.
+   &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Additional instructions included in code comments.
