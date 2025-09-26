@@ -1,5 +1,8 @@
 # Miscellaneous Code Repository
 
+A bunch of stuff here that may be helpful for troubleshooting.
+As always...
+
 ## ⚠️ Disclaimer
 > **Use any of this code at your own risk.** While designed for safe testing, incorrect usage or testing may damage hardware, mark your firstborn a crow familiar, or you may even lose a leg. Always ensure you understand your wiring and component limits. If you break hardware/yourself, the author is not liable.
 
