@@ -16,7 +16,7 @@ As always...
     
     **Code:**&nbsp;&nbsp;&nbsp;&nbsp;[ESP32_GPIO_Test.ino](https://github.com/DisasterofPuppets/Miscellaneous-Code/blob/main/ESP32_GPIO_Test.ino)  
     
-    **Usage:**&nbsp;&nbsp;&nbsp;&nbsp;Enter the pin number in serial monitor and the program will set it to High.
+    **Usage:**&nbsp;&nbsp;&nbsp;Enter the pin number in serial monitor and the program will set it to High.
     
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Measure between ground and selected pin to confirm 3.3v measurement - if not, pin may be faulty.
     
