@@ -2,9 +2,11 @@
 A bunch of stuff here that may be helpful for troubleshooting.
 
 
-Current Code:
+Available Code:
 
-**ESP32 GPIO Test to check voltage**
+**Platform : Arduino IDE**
+
+***ESP32 GPIO Test to check voltage***
 https://github.com/DisasterofPuppets/Miscellaneous-Code/blob/main/ESP32_GPIO_Test.ino
 
 Enter the pin number in serial monitor and the program will set it to High.
