@@ -12,7 +12,7 @@ As always...
 
 ## 📟 Arduino IDE
 
-#### ⚡ ESP32 GPIO Test - Voltage Check
+-#### ⚡ ESP32 GPIO Test - Voltage Check
 ---
 **Item:** 
   [ESP32_GPIO_Test.ino](https://github.com/DisasterofPuppets/Miscellaneous-Code/blob/main/ESP32_GPIO_Test.ino)
