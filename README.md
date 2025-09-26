@@ -14,8 +14,9 @@ As always...
 
 #### ⚡ ESP32 GPIO Test - Voltage Check
 ---
-**Repository:** [ESP32_GPIO_Test.ino](https://github.com/DisasterofPuppets/Miscellaneous-Code/blob/main/ESP32_GPIO_Test.ino)
+**Item:** 
+  [ESP32_GPIO_Test.ino](https://github.com/DisasterofPuppets/Miscellaneous-Code/blob/main/ESP32_GPIO_Test.ino)
 
-**Usage:** Enter the pin number in serial monitor and the program will set it to High. Measure between ground and selected pin to confirm 3.3v measurement - if not, pin may be faulty.
-
-Additional instructions included in code comments.
+**Usage:** 
+  Enter the pin number in serial monitor and the program will set it to High. Measure between ground and selected pin to confirm 3.3v measurement - if not, pin may be faulty.
+  Additional instructions included in code comments.
